@@ -1,4 +1,4 @@
-*/*.onnx
-*/*.engine
-*.*.pt
+*/*/*.onnx
+*/*/*.engine
+*/*/*.*.pt
 *.jpg
